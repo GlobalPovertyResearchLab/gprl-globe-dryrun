@@ -1,0 +1,9 @@
+{
+  "name": "Test Person 15",
+  "city": "Toronto",
+  "country": "Canada",
+  "lat": 43.65,
+  "lon": -79.38,
+  "fun_fact": "Dry-run profile #15.",
+  "photo": "photo.jpg"
+}
