@@ -1,0 +1,9 @@
+{
+  "name": "test-24",
+  "city": "Kigali",
+  "country": "Rwanda",
+  "lat": 142.0,
+  "lon": 30.06,
+  "fun_fact": "lat out of range",
+  "photo": "photo.jpg"
+}
