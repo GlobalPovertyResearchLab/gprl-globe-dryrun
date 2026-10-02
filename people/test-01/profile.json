@@ -1,0 +1,9 @@
+{
+  "name": "Test Person 01",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "lat": -1.29,
+  "lon": 36.82,
+  "fun_fact": "Dry-run profile #1.",
+  "photo": "photo.jpg"
+}
