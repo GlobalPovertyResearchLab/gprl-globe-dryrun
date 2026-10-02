@@ -1,0 +1,9 @@
+{
+  "name": "Test Person 04",
+  "city": "Bogotá",
+  "country": "Colombia",
+  "lat": 4.71,
+  "lon": -74.07,
+  "fun_fact": "Dry-run profile #4.",
+  "photo": "photo.jpg"
+}
