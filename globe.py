@@ -74,3 +74,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# dry-run: a PR that edits a file outside people/
