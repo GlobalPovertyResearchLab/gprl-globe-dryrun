@@ -1,0 +1,9 @@
+{
+  "name": "Test Person 02",
+  "city": "Accra",
+  "country": "Ghana",
+  "lat": 5.6,
+  "lon": -0.19,
+  "fun_fact": "Dry-run profile #2.",
+  "photo": "photo.jpg"
+}
